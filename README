@@ -1,0 +1,15 @@
+Dumistracel Eduard-Costin
+
+SUB1 Accessible
+-> pentru a vedea care stari sunt accessibile am realizat un DFS pe un graf
+care este stocat intr-un vector<vector<int>> matrix, initializat cu 0 initial
+
+SUB2 SYNC
+-> pentru a determina cuvantul care sincronizeaza starile, am realizat o
+modificare la DFS
+->modificare DFS
+    - parcurg graful cu ajutorul a doua noduri simultan
+    - verific daca nodurile au mai fost parcurse, iar daca nu
+adaug simbolul si parcurg mai departe
+    - parcurgerea se intrerupe atunci cand cele 2 stari sunt egale, in
+caz ca parcurgerea esueaza scot recursiv elem invalide

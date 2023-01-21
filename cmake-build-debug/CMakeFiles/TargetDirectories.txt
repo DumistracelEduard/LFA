@@ -1,0 +1,3 @@
+C:/Users/eduard.dumistracel/Desktop/Tema-LFA/cmake-build-debug/CMakeFiles/Tema_LFA.dir
+C:/Users/eduard.dumistracel/Desktop/Tema-LFA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eduard.dumistracel/Desktop/Tema-LFA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
